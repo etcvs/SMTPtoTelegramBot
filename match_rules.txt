@@ -1,2 +1,4 @@
 eusd___<p>Security code <span>(.*?)</span>
 perplexity___;white-space:pre-wrap">([\w\-]+)</span>
+perplexity___(?:驗證碼|verification code)[:：]?\s*([\w\-]+)
+pchome___<span[^>]*>(\d{6})</span>
